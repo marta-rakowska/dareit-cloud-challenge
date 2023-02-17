@@ -1,2 +1,5 @@
 # cloud_challenge
-DareIT tasks
+
+## About:
+
+This repository contains DareIT Cloud + Platform Engineer Challenge tasks.
