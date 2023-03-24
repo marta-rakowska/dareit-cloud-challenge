@@ -1,7 +1,9 @@
-##What is the average age of the students in the class?
+# What is the average age of the students in the class?
 
-#SQL query:
+## SQL query:
+
 select round(avg(age), 0) from dareit.students;
 
-#Answer:
+## Answer:
+
 36
