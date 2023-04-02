@@ -32,6 +32,8 @@ The goal of this task was to create a bucket, a virtual machine and a cloud SQL 
 
 ### Task 7️⃣
 
+The goal of this task was to create a CI/CD pipeline.
+
 ### Task 8️⃣
 
 
