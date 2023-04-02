@@ -34,6 +34,8 @@ The goal of this task was to create a bucket, a virtual machine and a cloud SQL 
 
 The goal of this task was to create a CI/CD pipeline.
 
+You can find my solution here: https://github.com/marta-rakowska/dareit-terraform
+
 ### Task 8️⃣
 
 
