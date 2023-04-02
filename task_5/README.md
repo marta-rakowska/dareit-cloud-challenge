@@ -1,4 +1,4 @@
-# Task 6
+# Task 5
 
 ## What is the average age of the students in the class?
 
