@@ -4,6 +4,13 @@ provider "google" {
   zone    = "us-central1-c"
 }
 
+resource "google_storage_bucket_iam_member" "member" {
+  provider = google
+  bucket   = "dare-it-task-6-bucket"
+  role     = "roles/storage.objectViewer"
+  member   = "allUsers"
+}
+
 resource "google_storage_bucket" "static-site" {
   name          = "dare-it-task-6-bucket"
   location      = "US"
@@ -51,8 +58,13 @@ resource "google_sql_database_instance" "instance" {
   deletion_protection = false
 }
 
-resource "google_sql_user" "user" {
+resource "google_sql_user" "users" {
   name     = "dareit_user"
-  instance = google_sql_database_instance.instance.name
-  password = "changeme"
+  instance = "dareit"
+  password = "********"
+}
+
+resource "google_sql_database" "database" {
+  name = "dareit"
+  instance = "dareit"
 }
