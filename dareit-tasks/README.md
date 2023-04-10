@@ -26,11 +26,13 @@ The goal of this task was to create cloud SQL instance, create a database and pr
 
 ### Task 6️⃣
 
-The goal of this task was to create a bucket, a virtual machine and a cloud SQL using Terraform.
+The goal of this task was to create a bucket, a virtual machine and a Cloud SQL instance using Terraform.
 
 ### Task 7️⃣
 
 The goal of this task was to create a CI/CD pipeline.
+
+You can find my solution here: https://github.com/marta-rakowska/dareit-terraform
 
 ### Task 8️⃣
 
