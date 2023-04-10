@@ -1,4 +1,4 @@
-# Cloud Challenge :cloud:
+# :cloud: Cloud Challenge :cloud:
 
 ## About:
 
@@ -20,8 +20,6 @@ The goal of this task was to create a cloud function.
 
 The goal of this task was to create a virtual machine.
 
-The public IP address of my virtual machine isn't included in this repository due to security reasons.
-
 ### Task 5️⃣
 
 The goal of this task was to create cloud SQL instance, create a database and practice SQL queries.
@@ -30,10 +28,13 @@ The goal of this task was to create cloud SQL instance, create a database and pr
 
 The goal of this task was to create a bucket, a virtual machine and a cloud SQL using Terraform.
 
-### Task 8️⃣
+### Task 7️⃣
+
+The goal of this task was to create a CI/CD pipeline.
 
 ### Task 8️⃣
 
+The goal of this task was to apply all the knowledge gathered along the way to deploy a simple website.
 
 
 
