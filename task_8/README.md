@@ -41,8 +41,6 @@ To run the application:
 9. Commit all files to the repository and push the change to the remote repository.
 10. Go to GitHub and check the Actions tab in your repository.
  
-You can find the output of the test deployment of the task here: <link>
- 
 It works on my machine :satisfied:
  
 ## Bonus:
