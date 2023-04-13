@@ -16,4 +16,9 @@ The task consisted of the following steps:
 
 ## Solution
 
-You can find my solution here: https://github.com/marta-rakowska/dareit-task-terraform
+You can find my solution here: https://github.com/marta-rakowska/dareit-task-terraform.
+
+## Pre-requisites:
+ 
+:heavy_check_mark: GCP account</br>
+:heavy_check_mark: GitHub account
