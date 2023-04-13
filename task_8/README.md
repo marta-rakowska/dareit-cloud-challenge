@@ -8,15 +8,15 @@ For the task I used the "Wine Festival Schedule" project that I created as a par
  
 ## Requirements of the task:
  
-:small_orange_diamond: Deliver the tooling to set up an application that displays a web page with text and an image.
-:small_orange_diamond: Provide source code for creating the stack in a publicly available repository.
-:small_orange_diamond: Provide basic setup documentation to run the application.
-:small_orange_diamond: All resources should be deployed using Terraform.
+:small_orange_diamond: Deliver the tooling to set up an application that displays a web page with text and an image.</br>
+:small_orange_diamond: Provide source code for creating the stack in a publicly available repository.</br>
+:small_orange_diamond: Provide basic setup documentation to run the application.</br>
+:small_orange_diamond: All resources should be deployed using Terraform.</br>
 :small_orange_diamond: Automate the deployment of your application using CI/CD.
  
 ## Solution:
  
-You can find the source code of the task in this folder. The source code of the website is located in the "website" subfolder.
+You can find the source code of the task here: https://github.com/marta-rakowska/dareit-task-8-terraform.
  
 ## Build status:
  
@@ -24,7 +24,7 @@ For now the task solution is simple but in the future I would like to create oth
  
 ## Pre-requisites:
  
-:heavy_check_mark: GCP account
+:heavy_check_mark: GCP account</br>
 :heavy_check_mark: GitHub account
  
 ### How to run the application?
@@ -47,8 +47,8 @@ It works on my machine :satisfied:
  
 ## Bonus:
  
-:small_blue_diamond: Provide and document a mechanism for scaling the service and delivering the content to a larger audience.
-:small_blue_diamond: Demonstrate that you have considered how a real-world solution will be hosted and scaled.
+:small_blue_diamond: Provide and document a mechanism for scaling the service and delivering the content to a larger audience.</br>
+:small_blue_diamond: Demonstrate that you have considered how a real-world solution will be hosted and scaled.</br>
 :small_blue_diamond: Explain your choices.
  
 ## Bonus solution:
@@ -69,7 +69,7 @@ Create Cloud Function that lists all VPCs and Subnets in the project and saves t
  
 Requirements:
  
-:small_orange_diamond:Provide source code for the function and any other code in a publicly available repository.
+:small_orange_diamond: Provide source code for the function and any other code in a publicly available repository.
  
 ## Bonus 2 solution:
  
