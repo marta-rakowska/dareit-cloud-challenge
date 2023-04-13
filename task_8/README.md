@@ -12,7 +12,7 @@ For the task I used the "Wine Festival Schedule" project that I created as a par
 :small_orange_diamond: Provide source code for creating the stack in a publicly available repository.
 :small_orange_diamond: Provide basic setup documentation to run the application.
 :small_orange_diamond: All resources should be deployed using Terraform.
-:small_orange_diamond: Automate the deployment of your appplication using CI/CD.
+:small_orange_diamond: Automate the deployment of your application using CI/CD.
  
 ## Solution:
  
@@ -25,12 +25,12 @@ For now the task solution is simple but in the future I would like to create oth
 ## Pre-requisites:
  
 :heavy_check_mark: GCP account
-:heavy_check_mark: GutHub account
+:heavy_check_mark: GitHub account
  
 ### How to run the application?
  
 To run the application:
-1. Clone the repository to your computer.
+1. Clone the following repository to your computer: https://github.com/marta-rakowska/dareit-task-8-terraform.
 2. Create a Service Account for Terraform in GCP and generate a key for this Service Account in json format.
 3. Create a bucket in GCP where you will store the Terraform state file (don't grant public access to it!).
 4. Create a new repository in GitHub and a new repository secret for it (use json key generated in step 2).
