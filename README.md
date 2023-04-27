@@ -32,11 +32,13 @@ The goal of this task was to create a bucket, a virtual machine and a Cloud SQL 
 
 The goal of this task was to create a CI/CD pipeline.
 
-You can find my solution here: https://github.com/marta-rakowska/dareit-terraform
+You can find my solution [here](https://github.com/marta-rakowska/dareit-cloud-challenge-task-7).
 
 ### Task 8️⃣
 
 The goal of this task was to apply all the knowledge gathered along the way to deploy a simple website.
+
+If you want to clone the code of this task you can do it [here](https://github.com/marta-rakowska/dareit-cloud-challenge-task-8).
 
 
 

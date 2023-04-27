@@ -30,7 +30,7 @@ For now the task solution is simple but in the future I would like to create oth
 ### How to run the application?
  
 To run the application:
-1. Clone the following repository to your computer: https://github.com/marta-rakowska/dareit-task-8-terraform.
+1. Clone [this](https://github.com/marta-rakowska/dareit-cloud-challenge-task-8) repository to your computer.
 2. Create a Service Account for Terraform in GCP and generate a key for this Service Account in json format.
 3. Create a bucket in GCP where you will store the Terraform state file (don't grant public access to it!).
 4. Create a new repository in GitHub and a new repository secret for it (use json key generated in step 2).
@@ -41,36 +41,51 @@ To run the application:
 9. Commit all files to the repository and push the change to the remote repository.
 10. Go to GitHub and check the Actions tab in your repository.
  
-You can find the output of the test deployment of the task here: <link>
+[//]: # (You can find the output of the test deployment of the task here: <link>)
  
 It works on my machine :satisfied:
  
-## Bonus:
- 
-:small_blue_diamond: Provide and document a mechanism for scaling the service and delivering the content to a larger audience.</br>
-:small_blue_diamond: Demonstrate that you have considered how a real-world solution will be hosted and scaled.</br>
-:small_blue_diamond: Explain your choices.
- 
-## Bonus solution:
- 
-Work in progress... :woman_technologist:
- 
-The final solution isn't ready but you can find a partial solution below 🚧
- 
-For scaling the service and delivering the content to larger audience I would use Cloud Load Balancer. It can distribute users among multiple servers. If the number of visitors grows, the balancer autoscales resources. Moreover, it can direct users to specific servers based on their geographical location.
- 
-As my static website contains the wine festival schedule I suppose that the load balancer will be very useful right before the event. A lot of people will want to check the schedule at the same time and the number of visitors will grow significantly.
- 
-Load balancer can be set up in Network sevices -> Load balancing. It is also possible to set it up using Terraform.
- 
-## Bonus 2:
- 
-Create Cloud Function that lists all VPCs and Subnets in the project and saves the data in a file that is stored in a bucket OR saves the data in the database.
- 
-Requirements:
- 
-:small_orange_diamond:Provide source code for the function and any other code in a publicly available repository.
- 
-## Bonus 2 solution:
- 
-Work in progress... :woman_technologist:
+[//]: # (## Bonus:)
+
+[//]: # ( )
+[//]: # (:small_blue_diamond: Provide and document a mechanism for scaling the service and delivering the content to a larger audience.</br>)
+
+[//]: # (:small_blue_diamond: Demonstrate that you have considered how a real-world solution will be hosted and scaled.</br>)
+
+[//]: # (:small_blue_diamond: Explain your choices.)
+
+[//]: # ( )
+[//]: # (## Bonus solution:)
+
+[//]: # ( )
+[//]: # (Work in progress... :woman_technologist:)
+
+[//]: # ( )
+[//]: # (The final solution isn't ready but you can find a partial solution below 🚧)
+
+[//]: # ( )
+[//]: # (For scaling the service and delivering the content to larger audience I would use Cloud Load Balancer. It can distribute users among multiple servers. If the number of visitors grows, the balancer autoscales resources. Moreover, it can direct users to specific servers based on their geographical location.)
+
+[//]: # ( )
+[//]: # (As my static website contains the wine festival schedule I suppose that the load balancer will be very useful right before the event. A lot of people will want to check the schedule at the same time and the number of visitors will grow significantly.)
+
+[//]: # ( )
+[//]: # (Load balancer can be set up in Network sevices -> Load balancing. It is also possible to set it up using Terraform.)
+
+[//]: # ( )
+[//]: # (## Bonus 2:)
+
+[//]: # ( )
+[//]: # (Create Cloud Function that lists all VPCs and Subnets in the project and saves the data in a file that is stored in a bucket OR saves the data in the database.)
+
+[//]: # ( )
+[//]: # (Requirements:)
+
+[//]: # ( )
+[//]: # (:small_orange_diamond:Provide source code for the function and any other code in a publicly available repository.)
+
+[//]: # ( )
+[//]: # (## Bonus 2 solution:)
+
+[//]: # ( )
+[//]: # (Work in progress... :woman_technologist:)
