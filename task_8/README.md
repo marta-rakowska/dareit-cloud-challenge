@@ -16,7 +16,7 @@ For the task I used the "Wine Festival Schedule" project that I created as a par
  
 ## Solution:
  
-You can find the source code of the task here: https://github.com/marta-rakowska/dareit-task-8-terraform.
+You can find the source code of the task [here](https://github.com/marta-rakowska/dareit-cloud-challenge-task-8).
  
 ## Build status:
  
