@@ -22,20 +22,8 @@ resource "google_storage_bucket_object" "static_site_src" {
   bucket = google_storage_bucket.static_site.name
 }
 
-resource "google_storage_bucket_object" "static_site_src2" {
-  name   = "style.css"
-  source = "website/style.css"
-  bucket = google_storage_bucket.static_site.name
-}
-
 resource "google_storage_bucket_object" "static_site_src3" {
   name   = "wine.jpg"
   source = "website/wine.jpg"
-  bucket = google_storage_bucket.static_site.name
-}
-
-resource "google_storage_bucket_object" "static_site_src4" {
-  name   = "reset.css"
-  source = "website/reset.css"
   bucket = google_storage_bucket.static_site.name
 }
