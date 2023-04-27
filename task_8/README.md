@@ -16,7 +16,7 @@ For the task I used the "Wine Festival Schedule" project that I created as a par
  
 ## Solution:
  
-You can find the source code of the task in this folder. The source code of the website is located in the "website" subfolder.
+You can find the source code of the task here: https://github.com/marta-rakowska/dareit-task-8-terraform.
  
 ## Build status:
  
@@ -44,7 +44,7 @@ To run the application:
 [//]: # (You can find the output of the test deployment of the task here: <link>)
  
 It works on my machine :satisfied:
- 
+
 [//]: # (## Bonus:)
 
 [//]: # ( )
