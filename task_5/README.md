@@ -9,6 +9,13 @@ The task consisted of the following steps:
 4. Prepare a query that would answer the question "what is average age of the students in the class?".
 5. Extract to txt data from the "students" table.
 
+Throughout this part of the challenge, I learned:
+- how does the Internet work?
+- what are databases?
+
+Technologies:
+- Cloud SQL
+
 ## What is the average age of the students in the class?
 
 The goal of this subtask was to write a SQL query to calculate the average age of the students in the class.

@@ -1,6 +1,12 @@
 # Task 8️⃣
 
 The goal of the task was to apply all the knowledge gathered during the challenge to deploy a simple website.
+
+Technologies used during the task:
+- Terraform
+- CI/CD - Github Actions
+- GCS
+- GCP
  
 ## Sources:
  

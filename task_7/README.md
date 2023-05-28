@@ -14,6 +14,14 @@ The task consisted of the following steps:
 9. On the branch, modify the code of the main.tf to add a new bucket.
 10. Open a pull request.
 
+Throughout this part of the challenge, I learned:
+- how to create CI/CD pipelines,
+- what Software Development Life Cycle is.
+
+Technologies used during the task:
+- Terraform
+- GitHub Actions
+
 ## Solution
 
 You can find my solution [here](https://github.com/marta-rakowska/dareit-cloud-challenge-task-7).
